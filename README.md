@@ -25,7 +25,8 @@
                         * click on **Play Button**
                         * copy file path -> cd path paste
                             * python **filename.py**
-<image sre="https://github.com/FaisalAliQurashi/SaylaniAi-Ds/blob/ceaab18d792c32d59a48662ec130fc5116fdc565/Capture2.PNG">
+                                <image sre="https://github.com/FaisalAliQurashi/SaylaniAi-Ds/blob/ceaab18d792c32d59a48662ec130fc5116fdc565/Capture2.PNG">
+
                             
 ## Step3: Create Jupyter notebook file
 * Conda prompt 
